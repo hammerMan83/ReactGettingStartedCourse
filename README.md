@@ -1,2 +1,0 @@
-# ReactGettingStartedCourse
-Created with CodeSandbox
